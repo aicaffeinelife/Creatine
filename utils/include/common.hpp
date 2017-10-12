@@ -8,7 +8,6 @@
 #include <iostream>
 #include <vector>
 #include <cstdlib>
-
 #include <helper_cuda.h>
 class Creatine {
 private:

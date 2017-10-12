@@ -7,7 +7,7 @@
 #include <string.h>
 #include <math.h>
 #include <vector>
-#include <iostream> //for debugging
+#include <iostream> 
 extern "C" {
   #include <cblas.h>
 }
